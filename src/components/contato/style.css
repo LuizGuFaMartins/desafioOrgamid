@@ -1,0 +1,20 @@
+.Contato_content_box {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  margin-bottom: 250px;
+}
+.Contato_img_box {
+  width: 60%;
+}
+.Contato_img_box img {
+  width: 100%;
+  border-radius: 20px;
+}
+.Contato_text_box {
+  padding-left: 30px;
+}
+.Contato_text_box ul li {
+  font-size: 1.2em;
+  margin: 10px 0;
+}

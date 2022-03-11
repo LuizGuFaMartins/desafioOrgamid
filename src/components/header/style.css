@@ -1,0 +1,21 @@
+.Header_box {
+  width: 60%;
+  height: 120px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.Header_box a {
+  width: 100px;
+  height: 40px;
+  font-size: 1.3em;
+  background-color: #eee;
+  border-radius: 5px;
+  margin: 5px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
